@@ -1,16 +1,5 @@
-# flutter_application_1
+<h1># Juego 3 en Raya (Tic Tac Toe)</h1>
+<h5>By: Alvaro Jose V.B</h5>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este proyecto es una **actividad académica** para la asignatura de **Programación Móvil**.  
+Consiste en la implementación del clásico juego **3 en raya** (Tic Tac Toe) desarrollado en **Flutter**.  
